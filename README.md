@@ -1,1 +1,2 @@
-# bowdoin_development_f2025
+# Political Economy of Development
+Bowdoin College, Fall 2025
