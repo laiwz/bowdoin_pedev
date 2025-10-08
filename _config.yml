@@ -1,3 +1,2 @@
 title: ""
-theme: null
-markdown: kramdown
+theme: jekyll-theme-cayman
