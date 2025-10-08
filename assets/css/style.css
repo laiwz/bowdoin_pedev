@@ -1,0 +1,4 @@
+/* Hide the site description in Cayman theme */
+.site-description {
+  display: none !important;
+}
