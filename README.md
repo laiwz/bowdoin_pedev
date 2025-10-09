@@ -16,3 +16,4 @@ Official Title: Econ 3510 Poverty and Economic Development
 - [Voting I (Median Voter Theorem)](/Lecture_5_Voting_I.pdf)
 - [Voting II (Empirics)](/Lecture_6_Voting_II.pdf)
 - [Regression Discontinuity](Lecture_7_Regression_Discontinuity.pdf)
+- [Voting III (Empirics)](/Lecture_8_Voting_III.pdf)
