@@ -17,3 +17,4 @@ Official Title: Econ 3510 Poverty and Economic Development
 - [Voting II (Empirics)](/Lecture_6_Voting_II.pdf)
 - [Regression Discontinuity](Lecture_7_Regression_Discontinuity.pdf)
 - [Voting III (Empirics)](/Lecture_8_Voting_III.pdf)
+- [Turnout](/Lecture_9_Turnout.pdf)
