@@ -22,3 +22,4 @@ Official Title: Econ 3510 Poverty and Economic Development
 **3. Governance Structures**
 - [Matching](/Lecture_10_Matching.pdf)
 - [Politicians I](/Lecture_11_Politicians_I.pdf)
+- [Politicians II](/Lecture_12_Politicians_II.pdf)
