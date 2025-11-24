@@ -24,3 +24,7 @@ Official Title: Econ 3510 Poverty and Economic Development
 - [Politicians I](/Lecture_11_Politicians_I.pdf)
 - [Politicians II](/Lecture_12_Politicians_II.pdf)
 - [Bureaucracy](/Lecture_13_Bureaucracy.pdf)
+
+**4. Failures of Politics**
+- [Corruption](/Lecture_14_Corruption.pdf)
+- [Conflict](/Lecture_15_Conflict.pdf)
