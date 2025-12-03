@@ -28,3 +28,6 @@ Official Title: Econ 3510 Poverty and Economic Development
 **4. Failures of Politics**
 - [Corruption](/Lecture_14_Corruption.pdf)
 - [Conflict](/Lecture_15_Conflict.pdf)
+
+**5. Political Economy of Nondemocracies**
+- [Nondemocracies](/Lecture_16_Nondemocracies.pdf)
